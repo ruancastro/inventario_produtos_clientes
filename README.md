@@ -20,3 +20,12 @@ O projeto estará então disponível no browser em : (http://localhost:3000)
 ### Demo
 
 Para testar a demo do projeto acesse : https://inventario-clientes-e-produtos-ecomerce.netlify.app/
+
+### Telas do site:
+
+![enter image description here](https://github.com/ruancastro/inventario_produtos_clientes/blob/master/public/tela%20home.png)
+
+![enter image description here](https://github.com/ruancastro/inventario_produtos_clientes/blob/master/public/tela%20cliente.png)
+
+![enter image description here](https://github.com/ruancastro/inventario_produtos_clientes/blob/master/public/tela%20produtos.png)
+
